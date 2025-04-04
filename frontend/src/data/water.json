@@ -1,0 +1,90 @@
+{
+    "cityData": [
+      {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "waterLevel": 72,
+        "idealWaterLevel": "yes",
+        "waterQuality": "Good",
+        "lastUpdated": "2024-03-15",
+        "waterAdvisory": {
+          "status": "Normal",
+          "message": "Water levels are optimal for regular usage",
+          "conservation": "Standard conservation practices recommended"
+        },
+        "recommendedPlants": {
+          "lowWaterRequirement": ["Cactus", "Succulent", "Aloe Vera"],
+          "highWaterRequirement": ["Fern", "Peace Lily", "Bamboo"]
+        }
+      },
+      {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "waterLevel": 45,
+        "idealWaterLevel": "mediocre",
+        "waterQuality": "Moderate",
+        "lastUpdated": "2024-03-15",
+        "waterAdvisory": {
+          "status": "Caution",
+          "message": "Monitor water usage carefully",
+          "conservation": "Implement moderate water conservation measures"
+        },
+        "recommendedPlants": {
+          "lowWaterRequirement": ["Lavender", "Thyme", "Sage"],
+          "highWaterRequirement": ["Spider Plant", "Philodendron", "Mint"]
+        }
+      },
+      {
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "waterLevel": 20,
+        "idealWaterLevel": "no",
+        "waterQuality": "Poor",
+        "lastUpdated": "2024-03-15",
+        "waterAdvisory": {
+          "status": "Critical",
+          "message": "Water levels critically low",
+          "conservation": "Strict water conservation required"
+        },
+        "recommendedPlants": {
+          "lowWaterRequirement": ["Sedum", "Agave", "Echeveria"],
+          "highWaterRequirement": []
+        }
+      },
+      {
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "waterLevel": 85,
+        "idealWaterLevel": "yes",
+        "waterQuality": "Excellent",
+        "lastUpdated": "2024-03-15",
+        "waterAdvisory": {
+          "status": "Optimal",
+          "message": "Water reserves at excellent levels",
+          "conservation": "Regular conservation practices advised"
+        },
+        "recommendedPlants": {
+          "lowWaterRequirement": ["Rosemary", "Jade Plant", "Succulent"],
+          "highWaterRequirement": ["Money Plant", "Hibiscus", "Mint"]
+        }
+      },
+      {
+        "city": "Aurangabad",
+        "state": "Maharashtra",
+        "waterLevel": 100,
+        "idealWaterLevel": "yes",
+        "waterQuality": "Excellent",
+        "lastUpdated": "2024-03-15",
+        "waterAdvisory": {
+          "status": "Surplus",
+          "message": "Water levels above optimal",
+          "conservation": "Standard conservation practices recommended"
+        },
+        "recommendedPlants": {
+          "lowWaterRequirement": ["Aloe Vera", "Cactus", "Lavender"],
+          "highWaterRequirement": ["Areca Palm", "Peace Lily", "Spider Plant"]
+        }
+      }
+    ]
+  }
+  

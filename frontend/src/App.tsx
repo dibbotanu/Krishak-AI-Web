@@ -5,7 +5,7 @@ import { Home } from './pages/Home';
 import { DiseaseDetection } from './pages/DiseaseDetection';
 import { CropAdvisory } from './pages/CropAdvisory';
 import { MarketInsights } from './pages/MarketInsights';
-import { Chatbot } from './pages/Chatbot';
+import { Chatbot } from './components/Chatbot';
 
 function App() {
   const { language, setLanguage, translations, t } = useTranslation();
